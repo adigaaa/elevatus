@@ -1,0 +1,31 @@
+[    
+    {
+        "Departure": "Madrid",
+        "Arrival": "Barcelona",
+        "Seat_number": "45B",
+        "Transportation_type": "Train",
+        "Transportation_number": "78A"
+    },
+    {
+        "Departure": "Barcelona",
+        "Arrival": "Gerona Airport",
+        "Transportation_type": "Bus"
+    },
+    {
+        "Departure": "Stockholm",
+        "Arrival": "New York",
+        "Seat_number": "7B",
+        "Transportation_type": "Plane",
+        "Transportation_number": "SK22",
+        "Gate": "22"
+    },
+    {
+        "Departure": "Gerona Airport",
+        "Arrival": "Stockholm",
+        "Seat_number": "3A",
+        "Transportation_type": "Plane",
+        "Transportation_number": "SK455",
+        "Gate": "45B",
+        "Baggage": "344"
+    }
+]
